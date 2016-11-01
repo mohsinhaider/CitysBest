@@ -11,9 +11,5 @@ public class LogoActivity extends AppCompatActivity {
         setContentView(R.layout.activity_logo);
     }
 
-    @Override
-    protected void onStart() {
-        // i have overidden... git example
-        super.onStart();
-    }
+    
 }
